@@ -1,7 +1,7 @@
 # CIS-5800
 Tesla AI Support Chatbot
 
-# TeslaGuideAI – Frontend Interface
+# What does the product do?
 
 Tesla AI Support Chatbot is an AI-powered chatbot for Tesla to help improve customer support for Tesla owners. 
 
